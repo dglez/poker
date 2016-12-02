@@ -1,0 +1,21 @@
+
+
+Pseudo Code:
+
+//Validate input 
+      //Create Deck
+      //display Deck
+      //shuffle Deck
+        //iterate over the deck swapping a random 
+         number with the current index
+      //Display Deck
+      //Create players
+      //Deal cards to Players 
+          //copy consecutive sections of deck with 
+           amount of cards to deal for each player      
+      //organize Players cards
+        //sort cards of each player 
+      //Rank players      
+      //Display Players cards
+      //Display what is left on deck
+      //Find and display winner
